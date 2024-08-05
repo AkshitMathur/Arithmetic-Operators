@@ -1,11 +1,10 @@
-# Arithmetic-Operators
-Experiment_5
-
 # Arithmetic_Operators
 Experiment_3
 
 ## AIM - 
 To use operators to add two numbers.
+
+## Software - VS Code
 
 ## Theory
 Airthmetic operators are symbols used in programming to perform operations on variables and values. They are important to writing expressions and making decisions in code.
@@ -41,3 +40,6 @@ Output the Result
 
 * Output the result: "The No. is: " followed by the value of c.
 * End
+
+## conclusion: 
+we learned the arithmetic operation in c plus plus 
